@@ -1,0 +1,29 @@
+.user-list-container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #343a40;
+  }
+  
+  .user-item {
+    border-bottom: 1px solid #dee2e6;
+    padding: 10px 0;
+  }
+  
+  .user-item h2 {
+    color: #007bff;
+    margin: 0;
+  }
+  
+  .user-item p {
+    margin: 5px 0;
+    color: #495057;
+  }
